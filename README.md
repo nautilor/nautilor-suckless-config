@@ -12,3 +12,7 @@ This is my suckeless configurations
 ## ST
 
 	- scrollback (only keyboard)
+
+## DMENU
+	- Xresources
+	- center dmenu
